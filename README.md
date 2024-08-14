@@ -21,15 +21,15 @@ Os requisitos funcionais descrevem as funcionalidades que o sistema deve oferece
 1. **RF001**: Entrega de um plano de ação
 2. **RF002**: Demonstração de outras pessoas que tem o cargo desejado
 3. **RF003**: Cursos proprios da plataforma, com profissionais da area requisitada
-4. **RF004**: Sistema 
+4. **RF004**: Sistema de recrutamento com empresas parceiras
 
 ## Requisitos Não Funcionais
 Os requisitos não funcionais definem as qualidades e restrições do sistema. Abaixo estão listados os requisitos não funcionais identificados:
 
-1. **RNF001**: [Descrição do requisito não funcional 1]
-2. **RNF002**: [Descrição do requisito não funcional 2]
-3. **RNF003**: [Descrição do requisito não funcional 3]
-4. **RNF004**: [Descrição do requisito não funcional 4]
+1. **RNF001**: O sistema não terá uma navegação simples
+2. **RNF002**: Será compativel com todas as plataformas como IOS, Windows ou Smartphone
+3. **RNF003**: os usuarios precisarão adicionar todos os documentos antes de se candidatar a uma vaga.
+
 
 ## Casos de Uso
 [Descreva os principais casos de uso do sistema, incluindo atores, pré-condições, fluxo principal e fluxo alternativo.]
