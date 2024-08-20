@@ -1,6 +1,6 @@
 # Documentação do Software
 
-## Índice
+## Índice 
 1. [Introdução](#introdução)
 2. [Visão Geral do Sistema](#visão-geral-do-sistema)
 3. [Requisitos Funcionais](#requisitos-funcionais)
