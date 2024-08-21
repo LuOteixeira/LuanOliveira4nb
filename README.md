@@ -10,7 +10,7 @@
 7. [Conclusão](#conclusão)
 
 ## Introdução
-Esta documentação descreve o software MentorIa, suas funcionalidades, requisitos e arquitetura. O objetivo é fornecer uma visão clara e abrangente do sistema para desenvolvedores, gestores e partes interessadas.
+Esta documentação descreve o software MentorIa, suas funcionalidades, requisitos e arquitetura. O objetivo é fornecer uma visão clara e abrangente do sistema para desenvolvedores, gestores e partes interessadas batata.
 
 ## Visão Geral do Sistema
 O MentorIA utilizara dos recursos de informações dos usuarios para criar um plano de carreira utilizando, as vontades que incluem locais de trabalho e cargos do mentoriado para que ele tenha uma boa colocação no mercado de trabalho
